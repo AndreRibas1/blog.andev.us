@@ -2,6 +2,7 @@ import React from "react";
 import Twitter from "../assets/twitter-alt.svg";
 import GitHub from "../assets/github-alt.svg";
 import DevTo from "../assets/devto-alt.svg";
+import Ig from "../assets/ig-alt.svg";
 import config from "../lib/config";
 
 export function SocialList({}) {
@@ -30,6 +31,14 @@ export function SocialList({}) {
         rel="noopener"
       >
         <DevTo width={24} height={24} fill={"#222"} />
+      </a>
+      <a
+        title="Ig"
+        href={`https://dev.to/${config.ig_account}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <Ig width={24} height={24} fill={"#222"} />
       </a>
       <style jsx>{`
         a {
