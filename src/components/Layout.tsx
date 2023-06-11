@@ -43,5 +43,6 @@ export default function Layout({ children }: Props) {
         `}
       </style>
     </div>
+    </html>
   );
 }
