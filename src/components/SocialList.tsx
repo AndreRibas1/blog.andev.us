@@ -22,6 +22,14 @@ export function SocialList({}) {
       >
         <GitHub width={24} height={24} fill={"#222"} />
       </a>
+      <a
+        title="DevTo"
+        href={`https://dev.to/${config.devto_account}`}
+        target="_blank"
+        rel="noopener"
+      >
+        <DevTo width={24} height={24} fill={"#222"} />
+      </a>
       <style jsx>{`
         a {
           display: inline-block;
