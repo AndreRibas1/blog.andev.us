@@ -6,6 +6,7 @@ type Props = {
 };
 export default function Layout({ children }: Props) {
   return (
+    <html lang="pt">
     <div className="root">
       <Head>
         <meta charSet="utf-8" />
