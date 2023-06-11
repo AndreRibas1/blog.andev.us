@@ -34,7 +34,7 @@ export function SocialList({}) {
       </a>
       <a
         title="Ig"
-        href={`https://dev.to/${config.ig_account}`}
+        href={`https://instagram.com/${config.ig_account}`}
         target="_blank"
         rel="noopener"
       >
