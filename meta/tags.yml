@@ -13,3 +13,5 @@ tags:
     name: criticism
   - slug: texts
     name: texts
+  - slug: news
+    name: news
