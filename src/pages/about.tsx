@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            André Ribas<span className="fancy">.</span>
+            André Ribas......................................................................................................................................<span className="fancy">.</span>
           </h1>
           <span className="handle">Web Developer</span>
-          <h3>A little bit about me.</h3>
+          <h2>A little bit about me.</h2>
           <p>I am a 16-year-old web developer from Brazil. I have a passion for exploring new trends and innovative technologies, always seeking knowledge in various areas. 
             My specialty is JavaScript, and I love creating innovative and diverse designs.</p> 
           <p>Furthermore, I am a reflective person, interested in contemplating the world, human nature, our way of life, and behavior.</p>
