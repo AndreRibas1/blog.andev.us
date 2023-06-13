@@ -34,6 +34,7 @@ export default function Index() {
           flex: 1 1 auto;
           padding: 0 1.5rem;
           max-width: 100%;
+          overflow-x: hidden;
         }
         h1 {
           font-size: 2.5rem;
