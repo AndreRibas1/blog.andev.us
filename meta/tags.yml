@@ -15,3 +15,5 @@ tags:
     name: texts
   - slug: news
     name: news
+  - slug: crypto
+    name: crypto
