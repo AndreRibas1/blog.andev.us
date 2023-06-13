@@ -34,6 +34,9 @@ export default function Index() {
           flex: 1 1 auto;
           padding: 0 1.5rem;
           overflow-wrap: break-word;
+          width: 800px; /* Defina a largura desejada */
+          margin: 0 auto;
+          max-width: 100%;
         }
         h1 {
           font-size: 2.5rem;
