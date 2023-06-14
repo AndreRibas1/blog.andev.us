@@ -19,8 +19,8 @@ export default function Index() {
           <h2>
             A little bit about me<span className="fancy">.</span>
           </h2>
-          <p>I am a 16-year-old web developer from Brazil. I have a passion for exploring new trends and innovative technologies, always seeking knowledge in various areas. 
-          My specialty is JavaScript, and I love creating innovative and diverse designs.</p> 
+          <p>I am a 16-year-old web developer from Brazil. I have a passion for exploring new trends and innovative technologies, always seeking knowledge in various areas.</p> 
+          <p>My specialty is JavaScript, and I love creating innovative and diverse designs.</p> 
           <p>Furthermore, I am a reflective person, interested in contemplating the world, human nature, our way of life, and behavior.</p>
           <br/>
           <SocialList />
