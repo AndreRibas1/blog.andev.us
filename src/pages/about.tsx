@@ -33,6 +33,7 @@ export default function Index() {
           justify-content: center;
           flex: 1 1 auto;
           padding: 0 1.5rem;
+          overflow: auto;
         }
         h1 {
           font-size: 2.5rem;
