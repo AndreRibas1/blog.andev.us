@@ -16,7 +16,7 @@ export default function Index() {
             Andev Blog<span className="fancy">.</span>
           </h1>
           <span className="handle">By André Ribas</span>
-          <h2>A place where you can find quality content about technology.</h2>
+          <h2>A place where you can find quality content about diverse content.</h2>
           <SocialList />
         </div>
       </div>
