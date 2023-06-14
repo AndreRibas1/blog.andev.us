@@ -28,7 +28,7 @@ export default function PostLayout({
   slug,
   author,
   tags,
-  description = "aaa",
+  description = "",
   children,
 }: Props) {
   const keywords = tags.map(it => getTag(it).name);
