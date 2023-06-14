@@ -1,7 +1,7 @@
 {
   "base_url": "https://blog.andev.us",
   "site_title": "Andev Blog",
-  "site_description": "Andev Blog by André Ribas | Futuri",
+  "site_description": "Andev Blog by André Ribas",
   "site_keywords": [
     {
       "keyword": "Blog"
@@ -10,7 +10,7 @@
       "keyword": "Andev"
     },
     {
-      "keyword": "Futuri"
+      "keyword": "André Ribas"
     }
   ],
   "posts_per_page": 5,
