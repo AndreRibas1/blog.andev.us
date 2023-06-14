@@ -1,7 +1,7 @@
 export default function Copyright() {
   return (
     <>
-      <p>&copy; 2023 | Andev by Futuri</p>
+      <p>&copy; 2023 | Andev by André Ribas</p>
       <style jsx>
         {`
           p {
