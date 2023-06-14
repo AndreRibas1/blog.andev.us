@@ -3,6 +3,7 @@ import authors from "../../meta/authors.yml";
 export type AuthorContent = {
   readonly slug: string;
   readonly name: string;
+  readonly link: string;
   readonly introduction: string;
 };
 
