@@ -16,7 +16,6 @@ export default function Layout({ children }: Props) {
         <meta name="theme-color" content="#fff" />
         
 <script type="text/javascript">
-//<![CDATA[
 var owa_baseUrl = 'http://analytics.arnext.net/';
 var owa_cmds = owa_cmds || [];
 owa_cmds.push(['setSiteId', 'e3a403b8dd9657d4e40cba9666fb9149']);
