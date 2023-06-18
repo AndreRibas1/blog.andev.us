@@ -15,7 +15,7 @@ export default function Layout({ children }: Props) {
         <link rel="apple-touch-icon" href="/icon.png" />
         <meta name="theme-color" content="#fff" />
         
-<!-- Start Open Web Analytics Tracker -->
+<!/-- Start Open Web Analytics Tracker -->
 <script type="text/javascript">
 //<![CDATA[
 var owa_baseUrl = 'http://analytics.arnext.net/';
@@ -32,7 +32,7 @@ owa_cmds.push(['trackClicks']);
 }());
 //]]>
 </script>
-<!-- End Open Web Analytics Code -->
+<!/-- End Open Web Analytics Code -->
       </Head>
       <nav>
         <Navigation />
