@@ -34,6 +34,11 @@ export default function BasicMeta({
       />
       {author ? <meta name="author" content={author} /> : null}
       <link rel="canonical" href={config.base_url + url} />
+      <script 
+  async 
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8739497095394372"
+  crossOrigin="anonymous"
+></script>
     </Head>
   );
 }
