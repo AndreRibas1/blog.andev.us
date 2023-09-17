@@ -17,3 +17,5 @@ tags:
     name: news
   - slug: crypto
     name: crypto
+  - slug: fiction
+    name: fiction
